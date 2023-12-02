@@ -1,6 +1,6 @@
 # todo_list_app
 
-My first more advanced Flutter project
+My second more advanced Flutter project
 
 ## DEMO:
 
